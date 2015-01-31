@@ -1,2 +1,2 @@
 # BookAnalytics
-Text Mining Against ePub Files
+Goal 1: Text mine eBooks for associations between characters and their attributes
